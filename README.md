@@ -51,7 +51,3 @@ Below is a comprehensive preview of the completed interactive Excel dashboard sh
 
 ---
 
-## About the Author
-* **Walaa Hussein Ibrahim**
-* **Role:** Bookkeeping Professional & Computer Science Student (University of the People)
-* Specialized in financial record-keeping, data organization, and business intelligence toolsets.
